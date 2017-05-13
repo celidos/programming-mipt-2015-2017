@@ -1,0 +1,15 @@
+http://tracker.tfile.me/announce.php?ak=11b9569798&info_hash=AABBCCDDAABBCCDDAABB&info_hash=bbbbbbbbbbbbbbbbbbbb&peer_id=ABCAABABACADABA1097A&port=6881&uploaded=0&downloaded=0&left=1273509&compact=0&event=started
+
+
+http://tracker.tfile.me/announce.php?ak%3D11b9569798%26info_hash%3DAABBCCDDAABBCCDDAABB%26info_hash%3Dbbbbbbbbbbbbbbbbbbbb%26peer_id%3DABCAABABACADABA1097A%26port%3D6881%26uploaded%3D0%26downloaded%3D0%26left%3D1273509%26compact%3D0%26event%3Dstarted
+
+
+
+
+// рабочая версия!
+
+GET /announce.php?ak=11b9569798&&info_hash=%89M%19x%93%ab%d2%2b%14%5d%8b%a2Z%28%0dT%1e%e8%0d2&peer_id=-TR2840-ax1iaaivry3l&port=51413&uploaded=0&downloaded=0&left=1273509&numwant=80&key=483c61e&compact=1&supportcrypto=1&event=started
+       
+
+
+http://tracker.tfile.me/announce.php?ak=11b9569798&&info_hash=%89M%19x%93%ab%d2%2b%14%5d%8b%a2Z%28%0dT%1e%e8%0d2&peer_id=-TR2840-ax1iaaivry3l&port=51413&uploaded=0&downloaded=0&left=1273509&numwant=80&key=483c61e&compact=1&supportcrypto=1&event=started

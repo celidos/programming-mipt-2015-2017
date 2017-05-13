@@ -1,0 +1,49 @@
+File opened, now parsing...File parsed
+{
+    "announce": "http://tracker.tfile.ru/announce.php?ak=11b9569798&",
+    "announce-list": [
+        [
+            "http://tracker.tfile.me/announce.php?ak=11b9569798&"
+        ],
+        [
+            "http://i.bandito.org/announce.php"
+        ],
+        [
+        ],
+        [
+            "udp://tracker.coppersurfer.tk:6969"
+        ],
+        [
+            "udp://tracker.leechers-paradise.org:6969"
+        ]
+    ],
+    "azureus_properties": {
+        "dht_backup_enable": 1
+    },
+    "comment": "http://tfile.co/forum/viewtopic.php?p=7860619",
+    "created by": "uTorrent/3.4.7",
+    "creation date": 1464257425,
+    "encoding": "UTF-8",
+    "info": {
+        "files": [
+            {
+                "length": 529109,
+                "path": [
+                    "Shtern_Kak-ya-svalila-iz-Germanii-obratno-v-Rossiyu.448488.fb2.epub"
+                ]
+            },
+            {
+                "length": 744400,
+                "path": [
+                    "Shtern_Kak-ya-svalila-iz-Germanii-obratno-v-Rossiyu.448488.fb2"
+                ]
+            }
+        ],
+        "name": "shtern_[tfile.ru]",
+        "piece length": 16384,
+        "pieces": ...
+    },
+    "private": 0,
+    "publisher": "tfile.co",
+    "publisher-url": "http://tfile.co/forum/viewtopic.php?p=7860619"
+}
